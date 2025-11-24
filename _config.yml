@@ -193,6 +193,7 @@ exclude:
   - _publications
   - _talks
   - _teaching
+  - _portfolio
 keep_files:
   - .git
   - .svn
