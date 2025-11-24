@@ -1,1 +1,11 @@
+- title: "Publications"
+   url: /publications/
 
+ - title: "Talks"
+   url: /talks/    
+
+ - title: "Teaching"
+   url: /teaching/    
+    
+ - title: "Portfolio"
+   url: /portfolio/
