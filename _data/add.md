@@ -9,3 +9,6 @@
     
  - title: "Portfolio"
    url: /portfolio/
+
+ - title: "Guide"
+   url: /markdown/
