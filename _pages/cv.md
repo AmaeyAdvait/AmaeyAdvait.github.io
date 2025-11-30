@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-My CV can be found here: [Research CV](https://github.com/AmaeyAdvait/AmaeyAdvait.github.io/blob/master/files/Research_CV_Amaey.pdf)
+My CV can be found here: <a href="https://github.com/AmaeyAdvait/AmaeyAdvait.github.io/blob/master/files/Research_CV_Amaey.pdf" target="_blank" rel="noopener noreferrer">Research CV →</a>
