@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-*Will be Updated Shortly.*
+*Will be updated shortly.*
